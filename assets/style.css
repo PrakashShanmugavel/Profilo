@@ -1,0 +1,13 @@
+
+h1{ font-family:fantasy;
+font-size:xx-large;}
+p{font-family:'Courier New', Courier, monospace;
+font-size: medium;}
+h2{ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   table-layout: fixed;}
+
+   .locale {
+    animation-name: colorChange;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
